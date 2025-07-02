@@ -1,6 +1,6 @@
 ### Olá!, eu sou o Rhuan!
 
-Sou um Desenvolvedor de Software apaixonado por tecnologia, especialmente análise de algoritmos.
+Sou um Desenvolvedor de Software com interesse principalmente em análise e otimização de algoritmos.
 
 ---
 
