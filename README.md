@@ -13,12 +13,6 @@ Sou um Desenvolvedor de Software apaixonado por tecnologia, especialmente análi
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/rhuanzero">
-   [![GitHub Streak](https://streak-stats.vercel.app/?user=rhuanzero&theme=dracula)](https://git.io/streak-stats)
-  </a>
-</p>
-
 ---
 
 <p align="left">
