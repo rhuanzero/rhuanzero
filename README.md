@@ -6,16 +6,16 @@ Sou um Desenvolvedor de Software apaixonado por tecnologia, especialmente análi
 
 <p align="left">
   <a href="https://github.com/rhuanzero">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SEU-NOME-DE-USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rhuanzero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
   </a>
   <a href="https://github.com/rhuanzero">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-NOME-DE-USUARIO&layout=compact&langs_count=7&theme=dracula" alt="Top Linguagens" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhuanzero&layout=compact&langs_count=7&theme=dracula" alt="Top Linguagens" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/rhuanzero">
-    <img align="center" src="https://streak-stats.demolab.com/?user=SEU-NOME-DE-USUARIO&theme=dracula" alt="GitHub Streak" />
+    <img align="center" src="https://streak-stats.demolab.com/?user=rhuanzero&theme=dracula" alt="GitHub Streak" />
   </a>
 </p>
 
