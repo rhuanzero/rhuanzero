@@ -15,7 +15,7 @@ Sou um Desenvolvedor de Software apaixonado por tecnologia, especialmente análi
 
 <p align="center">
   <a href="https://github.com/rhuanzero">
-    <img align="center" src="https://streak-stats.demolab.com/?user=rhuanzero&theme=dracula" alt="GitHub Streak" />
+   [![GitHub Streak](https://streak-stats.vercel.app/?user=rhuanzero&theme=dracula)](https://git.io/streak-stats)
   </a>
 </p>
 
