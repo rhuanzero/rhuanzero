@@ -1,4 +1,4 @@
-### 👋 Olá, eu sou o <Rhuan>!
+### Olá!, eu sou o Rhuan!
 
 Sou um Desenvolvedor de Software apaixonado por tecnologia, especialmente análise de algoritmos.
 
