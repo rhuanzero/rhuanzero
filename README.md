@@ -1,6 +1,5 @@
 ### Olá!, eu sou o Rhuan!
-
-Sou um Desenvolvedor de Software com interesse principalmente em análise e otimização de algoritmos.
+- Graduando em Sistemas de informação na Unirio e um desenvolvedor de software com interesse principalmente em análise e otimização de algoritmos.
 
 ---
 
