@@ -5,9 +5,6 @@
 
 <p align="left">
   <a href="https://github.com/rhuanzero">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rhuanzero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  </a>
-  <a href="https://github.com/rhuanzero">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhuanzero&layout=compact&langs_count=7&theme=dracula" alt="Top Linguagens" />
   </a>
 </p>
