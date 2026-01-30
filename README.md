@@ -1,15 +1,9 @@
 ### Olá!, eu sou o Rhuan!
 - Graduando em Sistemas de informação na Unirio e um desenvolvedor de software com interesse principalmente em análise e otimização de algoritmos.
 
----
-
-<p align="left">
-  <a href="https://github.com/rhuanzero">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhuanzero&layout=compact&langs_count=7&theme=dracula" alt="Top Linguagens" />
-  </a>
-</p>
-
----
+### Estatísticas
+![Stats Alternativo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rhuanzero&theme=tokyonight)
+![Linguagens](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rhuanzero&layout=compact&hide_border=true&theme=dracula)
 
 ### Linguagens de Marcação e Estilo
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
